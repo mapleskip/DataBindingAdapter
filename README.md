@@ -26,7 +26,7 @@ android data binding library为我们提供了一个页面与数据绑定的技�
 
 ## 代码整体类图
 
-![](/assets/in-post/common-adapter-uml.png)
+![](/common-adapter-uml.png)
 
 ## 代码设计概述
 
