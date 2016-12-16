@@ -1,0 +1,2 @@
+# CommonAdapter
+一个基于android data binding实现的adapter库，支持多种viewType类型的item.目前已经实现包括ListView、ViewPager、ExpandableListView RecyclerView的adater实现
